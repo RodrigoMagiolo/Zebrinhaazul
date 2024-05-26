@@ -6,10 +6,14 @@
 
   Todos os dados são armazenados automaticamente em um banco de dados para que posteriormente possa ser feita uma análise da pesquisas e construção de gráficos visando o melhor entendimento dessas informações.
   Os arquivos dividem-se em:
-  
+
+  Clima.py - extração de dados do API de clima
+  local.py - extração de dados do API de localização
+  limpeza e transformação.py - comandos de limpeza e transformação
+  local_clima_BD - projeto completo com o banco de dados
+  local_graficos.ipynb - transformação + gráficos.
 
   Todo o projeto foi desenvolvido com a ferramenta de controle de versão GIT, que facilita a colaboração, e está disponível no Github no seguinte endereço: https://github.com/RodrigoMagiolo/Zebrinhaazul
 
   Sinta-se à vontade para contribuir com novos recursos, relatar problemas ou enviar solicitações de pull.
-
   
